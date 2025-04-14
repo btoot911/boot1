@@ -1,7 +1,7 @@
 # coffee website
 ### Coffee Website
 
-### This template was created by <a href="https://weblarec.com">Weblarex</a>
+### This template was created by <a href="https://weblarex.com">Weblarex</a>
 
 - Responsive Coffee Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
